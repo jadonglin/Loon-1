@@ -38,7 +38,7 @@
 
 * [@lhie1](https://github.com/lhie1)
 
-* [@ConnersHua](https://github.com/ConnersHua)
+* [@ConnersHua](https://github.com/DivineEngine)
 
 * [@chavyleung](https://github.com/chavyleung)
 
