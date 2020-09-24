@@ -1,3 +1,9 @@
+Loon脚本收集转移到： https://github.com/Tartarus2014/Loon-Script
+
+Loon脚本收集转移到： https://github.com/Tartarus2014/Loon-Script
+
+Loon脚本收集转移到： https://github.com/Tartarus2014/Loon-Script
+
 ### 说明 :
 
 * 只是搬运和同步更新大佬脚本.
